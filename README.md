@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pabon25
-- 👀 I’m interested in networking and cyber security
+- 👋 Hi, I’m @pabon25 (MASENGESHO Pacifique)
+- 👀 I’m interested in Software Development(Python,PHP,AI and IOT), networking and cyber security
 - 🌱 I’m currently learning Information technology
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me by contacting me on email mapaci25@gmail.com
