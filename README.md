@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **MASENGESHO Pacifique** (@pabon25)
 
-🚀 **Tech Enthusiast | CYPADI Founder | IT Learner**
+🚀 **Tech Enthusiast | CYPADI Founder | IT Engineer**
 
 ---
 
