@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @pabon25 (MASENGESHO Pacifique)
-- 👀 I’m interested in Software Development(Python,PHP,AI and IOT), networking and cyber security
-- 🌱 I’m currently learning Information technology, and CYPADI Founder
-- 💞️ I’m looking to collaborate on my project
-- 📫 How to reach me by contacting me on email mapaci25@gmail.com
+# 👋 Hi, I’m **MASENGESHO Pacifique** (@pabon25)
+
+🚀 **Tech Enthusiast | CYPADI Founder | IT Learner**
+
+---
+
+## 👀 Interests
+I’m deeply interested in exploring and building solutions in:
+- 💻 **Software Development** (Python, PHP)
+- 🤖 **Artificial Intelligence & Internet of Things (IoT)**
+- 🌐 **Networking & Cyber Security**
+- ☁️ **DevOps & Cloud Computing**
+
+---
+
+## 🌱 Currently
+- 🎓 Studying **Information Technology**
+- 🏗️ Founder of **CYPADI**
+- 📚 Continuously learning and improving my technical skills
+
+---
+
+## 💞️ Collaboration
+I’m open to collaborating on **innovative and impactful projects**, especially in software, security, and cloud technologies.
+
+---
+
+## 📫 Get in Touch
+- 📧 **Email:** [mapaci25@gmail.com](mailto:mapaci25@gmail.com)
+
+---
+
+✨ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
 
 <!---
-pabon25/pabon25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+pabon25/pabon25 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+You can click the Preview link to see your changes.
 --->
