@@ -10,21 +10,7 @@ I’m deeply interested in exploring and building solutions in:
 - 🤖 **Artificial Intelligence & Internet of Things (IoT)**
 - 🌐 **Networking & Cyber Security**
 - ☁️ **DevOps & Cloud Computing**
-
----
-
-## 🌱 Currently
-- 🎓 Studying **Information Technology**
-- 🏗️ Founder of **CYPADI**
-- 📚 Continuously learning and improving my technical skills
-
----
-
-## 💞️ Collaboration
-I’m open to collaborating on **innovative and impactful projects**, especially in software, security, and cloud technologies.
-
----
-
+--
 ## 📫 Get in Touch
 - 📧 **Email:** [mapaci25@gmail.com](mailto:mapaci25@gmail.com)
 
