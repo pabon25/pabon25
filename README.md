@@ -3,7 +3,6 @@
 🚀 **Tech Enthusiast | CYPADI Founder | IT Engineer**
 
 ---
-
 ## 👀 Interests
 I’m deeply interested in exploring and building solutions in:
 - 💻 **Software Development** (Python, PHP)
