@@ -1,5 +1,5 @@
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+![Static Badge](https://img.shields.io/badge/:badgeContent) 
+https://img.shields.io/badge/any_text-you_like-blue
 
 # 👋 Hi, I’m **MASENGESHO Pacifique** (@pabon25)
 
