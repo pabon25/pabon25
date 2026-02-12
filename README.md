@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 # 👋 Hi, I’m **MASENGESHO Pacifique** (@pabon25)
 
 🚀 **Tech Enthusiast | CYPADI Founder | IT Engineer**
