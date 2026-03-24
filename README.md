@@ -15,10 +15,11 @@ I’m deeply interested in exploring and building solutions in:
 - **Artificial Intelligence & Internet of Things (IoT)**
 - **Networking & Cyber Security**
 -  **DevOps & Cloud Computing**
---
-## Get in Touch
+ ## Get in Touch
 **Email:** [mapaci25@gmail.com](mailto:mapaci25@gmail.com)
 
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pabon25&show_icons=true)
 ---
 
 *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
