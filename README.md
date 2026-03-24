@@ -4,6 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github)
 
+
 # Hi, I’m **MASENGESHO Pacifique** (@pabon25)
 
 **Tech Enthusiast | CYPADI Founder | IT Engineer**
@@ -12,6 +13,7 @@
 ## Interests
 I’m deeply interested in exploring and building solutions in:
 - **Software Development** (Python, PHP)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pabon25)
 - **Artificial Intelligence & Internet of Things (IoT)**
 - **Networking & Cyber Security**
 -  **DevOps & Cloud Computing**
@@ -20,11 +22,9 @@ I’m deeply interested in exploring and building solutions in:
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pabon25&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pabon25&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pabon25&layout=donut)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pabon25)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pabon25&layout=donut)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabon25&layout=compact&langs_count=20)
 
 ---
 
