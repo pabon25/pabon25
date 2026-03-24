@@ -11,10 +11,10 @@
 ---
 ## Interests
 I’m deeply interested in exploring and building solutions in:
-💻 **Software Development** (Python, PHP)
-🤖 **Artificial Intelligence & Internet of Things (IoT)**
-🌐 **Networking & Cyber Security**
-☁️ **DevOps & Cloud Computing**
+- **Software Development** (Python, PHP)
+- **Artificial Intelligence & Internet of Things (IoT)**
+- **Networking & Cyber Security**
+-  **DevOps & Cloud Computing**
 --
 ## Get in Touch
 **Email:** [mapaci25@gmail.com](mailto:mapaci25@gmail.com)
