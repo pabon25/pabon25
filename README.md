@@ -3,7 +3,14 @@
 ![Static Badge](https://img.shields.io/badge/any_text-you_like-blue) 
 ![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github)
-
+![Python](https://img.shields.io/badge/Python-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![C++](https://img.shields.io/badge/C++-red)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![Dart](https://img.shields.io/badge/Dart-0175C2)
+![CMake](https://img.shields.io/badge/CMake-064F8C)
+![C](https://img.shields.io/badge/C-A8B9CC)
+![PHP](https://img.shields.io/badge/PHP-777BB4)
 
 # Hi, I’m **MASENGESHO Pacifique** (@pabon25)
 
@@ -13,7 +20,6 @@
 ## Interests
 I’m deeply interested in exploring and building solutions in:
 - **Software Development** (Python, PHP)
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pabon25)
 - **Artificial Intelligence & Internet of Things (IoT)**
 - **Networking & Cyber Security**
 -  **DevOps & Cloud Computing**
