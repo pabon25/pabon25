@@ -11,7 +11,6 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C)
 ![C](https://img.shields.io/badge/C-A8B9CC)
 ![PHP](https://img.shields.io/badge/PHP-777BB4)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pabon25)
 
 # Hi, I’m **MASENGESHO Pacifique** (@pabon25)
 
@@ -27,7 +26,6 @@ I’m deeply interested in exploring and building solutions in:
  ## Get in Touch
 **Email:** [mapaci25@gmail.com](mailto:mapaci25@gmail.com)
 
----
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pabon25&show_icons=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pabon25&layout=donut)
 
