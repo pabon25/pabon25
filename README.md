@@ -20,6 +20,10 @@ I’m deeply interested in exploring and building solutions in:
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pabon25&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pabon25&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pabon25)
+
 ---
 
 *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
