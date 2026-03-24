@@ -11,6 +11,7 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C)
 ![C](https://img.shields.io/badge/C-A8B9CC)
 ![PHP](https://img.shields.io/badge/PHP-777BB4)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pabon25)
 
 # Hi, I’m **MASENGESHO Pacifique** (@pabon25)
 
