@@ -23,6 +23,8 @@ I’m deeply interested in exploring and building solutions in:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pabon25&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pabon25)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pabon25&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabon25&layout=compact&langs_count=20)
 
 ---
 
