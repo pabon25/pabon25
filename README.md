@@ -11,7 +11,6 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C)
 ![C](https://img.shields.io/badge/C-A8B9CC)
 ![PHP](https://img.shields.io/badge/PHP-777BB4)
-# Languages
 ![Python](https://img.shields.io/badge/Python-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
@@ -23,34 +22,24 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF)
 ![Go](https://img.shields.io/badge/Go-00ADD8)
 ![Rust](https://img.shields.io/badge/Rust-000000)
-
-# Frontend
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-1572B6)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-
-# Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-
-# Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-# Tools  & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-064F8C)
-
-# Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
