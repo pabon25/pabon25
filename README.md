@@ -58,9 +58,8 @@ I’m deeply interested in exploring and building solutions in:
  ## Get in Touch
 **Email:** [mapaci25@gmail.com](mailto:mapaci25@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabon25&show_icons=true&include_all_commits=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pabon25&layout=donut)
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pabon25)
 
