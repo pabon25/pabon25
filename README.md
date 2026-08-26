@@ -59,6 +59,7 @@ I’m deeply interested in exploring and building solutions in:
 **Email:** [mapaci25@gmail.com](mailto:mapaci25@gmail.com)
 
 ![GitHub Stats](./profile/stats.svg)
+## Most Used Languages
 ![Top Languages](./profile/top-langs.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pabon25)
