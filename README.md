@@ -48,7 +48,7 @@
 
 **Tech Enthusiast | CYPADI Founder | IT Engineer**
 ---
-https://trophy.ryglcloud.net/?username=pabon25&theme=darkhub&no-frame=true
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pabon25&theme=darkhub&no-frame=true)](https://github.com/pabon25)
 
 ---
 ## Interests
