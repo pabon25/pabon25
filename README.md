@@ -47,7 +47,8 @@
 # Hi, I’m **MASENGESHO Pacifique** (@pabon25)
 
 **Tech Enthusiast | CYPADI Founder | IT Engineer**
-[![GitHub Trophies](https://trophy.ryglcloud.net/?username=pabon25&theme=darkhub&row=2&column=4)](https://github.com/pabon25)
+---
+[![GitHub Trophies](https://trophy.ryglcloud.net/?username=pabon25&theme=darkhub&row=2&column=8)](https://github.com/pabon25)
 ---
 ## Interests
 I’m deeply interested in exploring and building solutions in:
