@@ -58,8 +58,7 @@ I’m deeply interested in exploring and building solutions in:
 -  **DevOps & Cloud Computing**
  ## Get in Touch
 **Email:** [mapaci25@gmail.com](mailto:mapaci25@gmail.com)
-
-![GitHub Stats](./profile/stats.svg)
+**Phone:** [+250792359800]
 ## Most Used Languages
 ![Top Languages](./profile/top-langs.svg)
 
